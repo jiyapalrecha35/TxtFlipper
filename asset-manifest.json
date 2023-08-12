@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TxtFlipper/static/css/main.1db119b7.css",
+    "main.js": "/TxtFlipper/static/js/main.932c1e83.js",
+    "static/js/787.719ec76d.chunk.js": "/TxtFlipper/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TxtFlipper/index.html",
+    "main.1db119b7.css.map": "/TxtFlipper/static/css/main.1db119b7.css.map",
+    "main.932c1e83.js.map": "/TxtFlipper/static/js/main.932c1e83.js.map",
+    "787.719ec76d.chunk.js.map": "/TxtFlipper/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db119b7.css",
+    "static/js/main.932c1e83.js"
+  ]
+}
